@@ -1,0 +1,31 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	scroll-behavior: smooth;
+	box-sizing: border-box;
+	font-family: "Viaoda Libre", cursive;
+}
+
+body {
+    background-image: url(img/pexels-olia-danilevich-4974912.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.butn {
+    margin: 2rem;
+    background-color: invisible;
+    text-decoration: none;
+}
+
+footer {
+    margin: 2rem;
+    margin-top: 6rem;
+    padding: 1rem;
+}

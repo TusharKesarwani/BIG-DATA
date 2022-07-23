@@ -1,0 +1,38 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:6857ad2a-ad63-40b2-9a42-29e45da93411</distributor>
+  <operatorURL>https://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>5124887_396468616</transaction>
+  <purchase>2022-07-15T08:43:32+00:00</purchase>
+  <expiration>2022-07-15T14:43:32+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000005124887</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Discrete Mathematics</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Akerkar, Rajendra;</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Pearson India</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">5124887</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000005124887</resource>
+      <permissions>
+        <display>
+          <duration>604799</duration>
+        </display>
+        <excerpt>
+          <duration>604799</duration>
+          <count initial="34" max="34" incrementInterval="17788"/>
+        </excerpt>
+        <print>
+          <duration>604799</duration>
+          <count initial="34" max="34" incrementInterval="17788"/>
+        </print>
+        <play>
+          <duration>604799</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>5E6q32jbcSZyOs763r3ZQ5/J5M0=</hmac>
+</fulfillmentToken>
