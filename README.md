@@ -1,6 +1,6 @@
 # Welcome to Big - Data Official Repository
 
-![Big - Data](https://socialify.git.ci/TusharKesarwani/Big-Data/image?description=1&descriptionEditable=A%20place%20for%20coders.&font=Rokkitt&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+![Big - Data](https://socialify.git.ci/TusharKesarwani/Big-Data/image?description=1&descriptionEditable=Notes%20for%20MMMUT%20Students.&font=Rokkitt&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 <p align="center">
   <a href="https://github.com/TusharKesarwani/Big-Data/">
